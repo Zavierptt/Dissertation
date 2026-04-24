@@ -44,7 +44,7 @@ Python 3.8+ recommended.
 ## Usage
 
 ```bash
-python heston_horse_race.py
+python pricing.py
 ```
 
 The script will:
