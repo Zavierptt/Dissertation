@@ -75,3 +75,5 @@ the wings.
 | `rho` | -0.6 | Spot-vol correlation |
 
 ## Project Structure
+├── pricing.py # Main script
+└── README.md
